@@ -1,0 +1,101 @@
+ID Transaksi,Tanggal,Nama Pelanggan,Kota,Kategori Produk,Jumlah,Harga Satuan,Total
+TX1000,2023-07-30,Prayoga Hartati,Jakarta,Elektronik,,114196.0,
+TX1001,2023-07-20,Latika Wastuti,Bandung,Pakaian,2.0,192964.0,385928.0
+TX1002,2023-10-31,dr. Dalima Simbolon,Jakarta,Olahraga,7.0,58331.0,408317.0
+TX1003,2025-01-21,Lala Astuti,Jakarta,Elektronik,4.0,110990.0,443960.0
+TX1004,2024-03-09,Umi Hutapea,Makassar,Olahraga,1.0,197127.0,197127.0
+TX1005,2025-06-02,"R.M. Prabu Maheswara, M.Kom.",Bandung,Olahraga,7.0,107787.0,754509.0
+TX1006,2024-10-15,Tedi Safitri,Medan,Olahraga,5.0,51703.0,258515.0
+TX1007,2024-01-12,Janet Nurdiyanti,Bandung,Perabot,6.0,122842.0,737052.0
+TX1008,2024-02-21,Gilang Ardianto,Bandung,Pakaian,6.0,76793.0,460758.0
+TX1009,2023-11-02,"Raditya Mayasari, S.Gz",Jakarta,Perabot,2.0,144104.0,288208.0
+TX1010,2024-03-02,"Rafi Budiman, S.Farm",Surabaya,Olahraga,,61390.0,
+TX1011,2023-09-02,Gawati Handayani,Medan,Olahraga,2.0,149230.0,298460.0
+TX1012,2024-10-10,"R. Adhiarja Susanti, S.I.Kom",Jakarta,Olahraga,5.0,144800.0,724000.0
+TX1013,2024-09-10,Olivia Dongoran,Makassar,Pakaian,2.0,62012.0,124024.0
+TX1014,2025-05-27,"Dipa Uwais, S.Gz",Bandung,Makanan,2.0,111024.0,222048.0
+TX1015,2024-10-26,Rahmi Narpati,Jakarta,Perabot,5.0,,
+TX1016,2024-10-05,"Dr. Cagak Safitri, M.Pd",Surabaya,Pakaian,6.0,143132.0,858792.0
+TX1017,2024-01-08,Ellis Megantara,Bandung,Makanan,2.0,94862.0,189724.0
+TX1018,2024-03-22,Qori Utama,Makassar,Pakaian,3.0,171178.0,513534.0
+TX1019,2025-01-13,Kariman Usamah,Medan,Makanan,9.0,107570.0,968130.0
+TX1020,2024-09-30,"Purwadi Adriansyah, S.Gz",Surabaya,Elektronik,4.0,,
+TX1021,2024-09-02,"Cut Bella Winarno, S.Farm",Surabaya,Perabot,5.0,67350.0,336750.0
+TX1022,2024-01-04,Cindy Nasyidah,Bandung,Olahraga,,105738.0,
+TX1023,2025-06-13,"Uli Sihombing, M.M.",Medan,Perabot,8.0,87452.0,699616.0
+TX1024,2024-08-21,Hartana Mulyani,Surabaya,Pakaian,4.0,197159.0,788636.0
+TX1025,2023-11-29,Mumpuni Halimah,Makassar,Makanan,10.0,,
+TX1026,2024-07-09,"Dr. Adinata Lazuardi, S.Ked",Makassar,Perabot,6.0,107493.0,644958.0
+TX1027,2025-06-01,Raina Suryatmi,Bandung,Olahraga,8.0,73831.0,590648.0
+TX1028,2024-09-16,"Karen Sihombing, S.IP",Jakarta,Elektronik,3.0,91938.0,275814.0
+TX1029,2024-10-10,Paramita Hutasoit,Medan,Olahraga,2.0,150864.0,301728.0
+TX1030,2025-01-01,Usman Wahyuni,Medan,Olahraga,8.0,188704.0,1509632.0
+TX1031,2023-10-29,R.A. Silvia Prabowo,Surabaya,Olahraga,1.0,80029.0,80029.0
+TX1032,2024-06-20,Lintang Laksmiwati,Makassar,Makanan,6.0,79242.0,475452.0
+TX1033,2024-04-09,"Tgk. Ayu Budiyanto, S.Pt",Surabaya,Perabot,3.0,168940.0,506820.0
+TX1034,2024-10-03,Dr. Zelda Najmudin,Jakarta,Makanan,9.0,96832.0,871488.0
+TX1035,2023-07-13,"Yulia Jailani, M.Pd",Makassar,Elektronik,5.0,183080.0,915400.0
+TX1036,2024-04-05,Daru Suryatmi,Makassar,Pakaian,3.0,148019.0,444057.0
+TX1037,2023-11-13,"R. Paris Yulianti, S.Ked",Bandung,Olahraga,9.0,,
+TX1038,2023-12-27,"Rahmat Sitorus, M.TI.",Makassar,Makanan,8.0,55105.0,440840.0
+TX1039,2023-07-10,Kamaria Agustina,Jakarta,Makanan,,112770.0,
+TX1040,2024-07-16,"Mustofa Budiman, M.Ak",Jakarta,Pakaian,10.0,70645.0,706450.0
+TX1041,2024-05-11,Pandu Utama,Jakarta,Perabot,2.0,189645.0,379290.0
+TX1042,2024-09-06,Ganda Wastuti,Bandung,Pakaian,8.0,194127.0,1553016.0
+TX1043,2025-05-19,Mahmud Hartati,Bandung,Makanan,9.0,160923.0,1448307.0
+TX1044,2025-04-02,"Cut Hasna Pratiwi, S.E.",Bandung,Olahraga,,131714.0,
+TX1045,2024-01-01,Ika Dongoran,Medan,Makanan,,185679.0,
+TX1046,2024-08-24,"Putri Maryadi, M.TI.",Medan,Elektronik,4.0,108903.0,435612.0
+TX1047,2024-04-30,Cager Lailasari,Jakarta,Makanan,1.0,195207.0,195207.0
+TX1048,2024-12-11,Malika Uyainah,Bandung,Olahraga,4.0,51885.0,207540.0
+TX1049,2025-04-19,H. Rizki Adriansyah,Jakarta,Elektronik,4.0,67668.0,270672.0
+TX1050,2023-08-19,Hafshah Marpaung,Jakarta,Makanan,2.0,184782.0,369564.0
+TX1051,2024-03-06,Shakila Rajata,Bandung,Makanan,8.0,106160.0,849280.0
+TX1052,2023-09-29,"R. Soleh Pradipta, M.Kom.",Makassar,Pakaian,10.0,173907.0,1739070.0
+TX1053,2024-10-18,Laksana Nugroho,Bandung,Perabot,,99914.0,
+TX1054,2024-07-13,Febi Novitasari,Jakarta,Elektronik,7.0,,
+TX1055,2025-02-17,Drs. Yahya Pradipta,Medan,Perabot,8.0,64200.0,513600.0
+TX1056,2025-02-17,Zizi Wacana,Jakarta,Elektronik,7.0,138946.0,972622.0
+TX1057,2025-03-29,Lalita Ardianto,Jakarta,Pakaian,4.0,99862.0,399448.0
+TX1058,2023-10-03,"R.A. Hesti Kuswoyo, S.H.",Makassar,Perabot,3.0,160593.0,481779.0
+TX1059,2023-09-22,Ciaobella Suryatmi,Bandung,Makanan,8.0,115485.0,923880.0
+TX1060,2025-03-15,Unjani Kuswandari,Jakarta,Perabot,9.0,75666.0,680994.0
+TX1061,2025-02-26,Yani Usamah,Jakarta,Olahraga,1.0,74448.0,74448.0
+TX1062,2024-05-05,"Drs. Asirwada Hardiansyah, S.T.",Bandung,Pakaian,7.0,177307.0,1241149.0
+TX1063,2025-02-23,"dr. Karna Saptono, S.Kom",Medan,Pakaian,7.0,65370.0,457590.0
+TX1064,2023-10-29,Anita Kurniawan,Bandung,Perabot,1.0,152346.0,152346.0
+TX1065,2024-02-29,Purwadi Wahyudin,Surabaya,Perabot,5.0,,
+TX1066,2023-07-01,"Drs. Chelsea Wacana, M.Ak",Makassar,Perabot,3.0,99780.0,299340.0
+TX1067,2024-04-05,Joko Wacana,Surabaya,Pakaian,1.0,192133.0,192133.0
+TX1068,2024-11-25,Drs. Cakrajiya Pudjiastuti,Jakarta,Makanan,1.0,63144.0,63144.0
+TX1069,2024-01-16,"Tgk. Hasna Yuliarti, M.M.",Makassar,Perabot,9.0,189231.0,1703079.0
+TX1070,2023-09-18,Paulin Hardiansyah,Bandung,Elektronik,,71000.0,
+TX1071,2023-09-02,"Paris Wastuti, S.E.I",Bandung,Elektronik,10.0,67815.0,678150.0
+TX1072,2024-12-16,Violet Lazuardi,Bandung,Perabot,2.0,199336.0,398672.0
+TX1073,2023-11-10,Surya Hutagalung,Bandung,Olahraga,10.0,60418.0,604180.0
+TX1074,2024-12-10,Salsabila Pudjiastuti,Makassar,Elektronik,7.0,198170.0,1387190.0
+TX1075,2024-07-02,Jati Sudiati,Makassar,Makanan,5.0,103545.0,517725.0
+TX1076,2023-07-16,T. Dwi Adriansyah,Surabaya,Pakaian,5.0,153752.0,768760.0
+TX1077,2024-02-01,Mursinin Mustofa,Bandung,Makanan,8.0,132883.0,1063064.0
+TX1078,2025-05-30,Adinata Rajata,Jakarta,Elektronik,8.0,197585.0,1580680.0
+TX1079,2025-02-08,Karimah Kuswoyo,Jakarta,Elektronik,9.0,,
+TX1080,2024-05-23,Tri Adriansyah,Makassar,Makanan,,141490.0,
+TX1081,2023-08-25,Novi Saefullah,Jakarta,Pakaian,6.0,124707.0,748242.0
+TX1082,2024-10-08,"Indah Kuswoyo, S.E.",Bandung,Perabot,9.0,129303.0,1163727.0
+TX1083,2025-06-03,drg. Hendri Hastuti,Makassar,Olahraga,,195385.0,
+TX1084,2024-07-05,Irwan Marpaung,Surabaya,Elektronik,3.0,119328.0,357984.0
+TX1085,2024-11-26,Drs. Adhiarja Wibisono,Jakarta,Elektronik,9.0,90749.0,816741.0
+TX1086,2023-10-06,Dr. Irwan Wibisono,Surabaya,Makanan,10.0,105215.0,1052150.0
+TX1087,2024-10-07,R. Eka Santoso,Surabaya,Pakaian,5.0,182489.0,912445.0
+TX1088,2023-08-01,"Laras Jailani, S.Ked",Medan,Makanan,1.0,74195.0,74195.0
+TX1089,2025-04-23,Lukman Kurniawan,Medan,Makanan,1.0,50929.0,50929.0
+TX1090,2024-11-18,Karsana Usamah,Surabaya,Pakaian,5.0,92357.0,461785.0
+TX1091,2023-07-22,Rahmi Hardiansyah,Medan,Olahraga,7.0,197038.0,1379266.0
+TX1092,2024-04-26,"Elon Sinaga, S.Ked",Jakarta,Elektronik,2.0,89073.0,178146.0
+TX1093,2024-06-19,"Rudi Wijaya, S.E.",Makassar,Elektronik,6.0,194841.0,1169046.0
+TX1094,2025-05-21,Vicky Maryati,Bandung,Perabot,3.0,60965.0,182895.0
+TX1095,2025-02-18,Kania Nashiruddin,Surabaya,Makanan,1.0,143797.0,143797.0
+TX1096,2024-06-05,"T. Yusuf Zulaika, M.Ak",Bandung,Pakaian,2.0,142714.0,285428.0
+TX1097,2024-09-26,"Darimin Ramadan, S.T.",Makassar,Perabot,10.0,90515.0,905150.0
+TX1098,2024-02-12,Almira Waluyo,Bandung,Pakaian,3.0,158080.0,474240.0
+TX1099,2024-05-13,"Dt. Maryanto Suryatmi, S.Pd",Jakarta,Pakaian,6.0,,
